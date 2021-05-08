@@ -1,0 +1,2 @@
+# skillpedia
+GitHub Pages
